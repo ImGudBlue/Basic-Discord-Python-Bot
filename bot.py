@@ -7,7 +7,6 @@ client = commands.Bot(command_prefix="-", help_command=None)
 @client.event
 async def on_ready():
     # Change Discord Bot status
-    discord.Game(name="Learning Bot!")
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Hello!"))
     # Print a message when the bot loaded
     print("Bot is ready, Made by Marcus aka Blue! (Version 0.1)")
