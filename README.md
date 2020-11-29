@@ -13,6 +13,6 @@ You can start your Discord Python Bot project by using this template!
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/YbYhSjF/Screenshot-2.png">
+<img src="https://i.ibb.co/cyTVrjX/Screenshot-1.png">
 </p>
 
