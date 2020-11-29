@@ -9,7 +9,7 @@ async def on_ready():
     # Change Discord Bot status
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Hello!"))
     # Print a message when the bot loaded
-    print("Bot is ready, Made by Marcus aka Blue! (Version 0.1)")
+    print("Bot is ready!")
 
 # Hello Command
 @client.command()
