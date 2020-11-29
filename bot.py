@@ -26,7 +26,7 @@ async def help(ctx):
 
     await ctx.send(embed = em)
 
-# The "Hello" command usage.
+# The "Hello" command usage
 @help.command()
 async def hello (ctx):
 
